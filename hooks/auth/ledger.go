@@ -11,8 +11,8 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/mochi-mqtt/server/v2"
-	"github.com/mochi-mqtt/server/v2/packets"
+	"github.com/quarksus/mochi-mqtt-server/v2"
+	"github.com/quarksus/mochi-mqtt-server/v2/packets"
 )
 
 const (
